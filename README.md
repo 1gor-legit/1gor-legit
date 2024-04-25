@@ -39,7 +39,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=1gor-legit&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<img align="left" height="300" src="https://static.electronicsweekly.com/wp-content/uploads/2022/04/25144237/AF-HaS3-Header-Static-Art-scaled.jpg"  />
+<img align="left" height="200" src="https://static.electronicsweekly.com/wp-content/uploads/2022/04/25144237/AF-HaS3-Header-Static-Art-scaled.jpg"  />
 
 <h4 align="left">while(alive){<br>	<br>	ㅤeat();<br>	ㅤsleep();<br>	ㅤcode();<br>	<br>	ㅤif(Weekend())<br>	ㅤㅤtakeABreak();<br><br>}</h4>
 
