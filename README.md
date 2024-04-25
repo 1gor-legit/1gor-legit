@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/1gor/1gor/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/1gor/count.svg?"  />
 </div>
