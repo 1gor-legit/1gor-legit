@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Sistemas de Inforamação na UNOESTE.
+- 💼 Em busca do primeiro trabalho como dev.
+- 🌱 Aprendendo mais sobre tecnologias que visam o futuro e fortificando meu arsenal.
 
 ## Minhas Skills
 
@@ -37,4 +37,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-IgorSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/igor-silva)
 [![Gmail Badge](https://img.shields.io/badge/-igorcarbosilva@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:igorcarbosilva@gmail.com)](mailto:igorcarbosilva@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/1gor-legit))
