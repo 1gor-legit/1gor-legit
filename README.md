@@ -31,6 +31,7 @@
 **Ferramentas de desenvolvimento**
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333333.svg?style=flat&logo=intellij-idea&logoColor=white)
 
 ## Onde me encontrar
