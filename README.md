@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Sistemas de Inforamação na UNOESTE.
 - 💼 Em busca do primeiro trabalho como dev.
-- 🌱 Aprendendo mais sobre tecnologias que visam o futuro e fortificando meu arsenal.
+- 🌱 Aprendendo mais sobre tecnologias que visam o futuro, fortificando meu arsenal.
 
 ## Minhas Skills
 
@@ -13,12 +13,12 @@
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=blue)
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=c#)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
