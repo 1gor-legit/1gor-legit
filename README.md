@@ -3,13 +3,13 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de Inforamação na UNOESTE.
-- 💼 Em busca do primeiro trabalho como dev.
-- 🌱 Aprendendo mais sobre tecnologias que visam o futuro, fortificando meu arsenal.
+- 🎓 Estudando Sistemas de Informação na UNOESTE.
+- 💼 Em busca da primeira oportunidade como desenvolvedor.
+- 🌱 Aprendendo mais sobre tecnologias que visam o futuro e fortalecendo meu conjunto de habilidades.
 
 ## Minhas Skills
 
-**Linguagens e Desenvolvimento**
+**Linguagens & Desenvolvimento**
 
 ![](https://skillicons.dev/icons?i=c,cs,cpp,js,java,html,css,react,py&perline=5)
 
@@ -17,7 +17,7 @@
 
 ![](https://skillicons.dev/icons?i=mysql,postgres&perline=5)
 
-**Ferramentas e Versionamento**
+**Ferramentas & Versionamento**
 
 ![](https://skillicons.dev/icons?i=git,github&perline=5)
 
@@ -25,11 +25,19 @@
 
 ![](https://skillicons.dev/icons?i=vscode,visualstudio,idea&perline=5)
 
-**Sistemas e Ambiente**
+**Sistemas & Ambiente**
 
 ![](https://skillicons.dev/icons?i=linux,windows&perline=5)
 
+**DevOps & Observabilidade**
+
+![](https://skillicons.dev/icons?i=grafana,docker&perline=5)
+
+**Redes & Segurança**
+
+![](https://www.readmecodegen.com/api/social-icon?name=pfsense&bg=%23000000&color=%23ffffff)
+
 ## Onde me encontrar
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/1gor-legit)
-[![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:igorcarbosilva@gmail.com)
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/1gor-legit)
+[![](https://skillicons.dev/icons?i=gmail)](mailto:igorcarbosilva@gmail.com)
